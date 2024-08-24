@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Z00Li
-- 👀 I’m interested in coding ⌨️ and photography 📸
-- 🌱 I’m currently learning Python, C++ and photography
+- 👀 I’m interested in coding ⌨️ and digital technology 💾
+- 🌱 I’m currently learning Python, C++, terminal usage and computer operating systems 
 - 💞️ I’m looking to collaborate on Arduino or C++ projects of any kind
 - 📫 How to reach me:   - github
 
 ---
 
 # 👋
-Hello there! I'm Z00Li, a tech enthusiast with a passion for coding and an artistic flair for photography. My journey in the world of technology has been nothing short of thrilling, especially when it comes to my love for Arduino, C++, and Python.
+Hello there! I'm Z00Li, a tech enthusiast with a passion for coding and an artistic flair for photography. My journey in the world of technology has been nothing short of thrilling, especially when it comes to my love for Arduino, C++, and operating systems.
 
 # ⌨️
 Arduino has become my playground for innovation, where I channel my creativity into crafting unique projects. From experimenting with sensors to pushing the boundaries of microcontrollers, I find joy in the challenges and triumphs that the Arduino platform offers.
