@@ -1,36 +1,71 @@
-# 👋 Hi there!
-I'm **Z00Li**, the master of formatting SSD drives and frying motherboards, a tech enthusiast with a deep passion for coding and operating systems. My journey in the world of technology is driven by curiosity and a love for learning.
+<div data-importer="image" align="center">
+  <img data-importer="image" height="300" src=assets/banner.jpg  />
+</div>
+
+<h1 data-importer="text" align="center">👋Hey, I am Z00Li</h1>
+<p data-importer="text" align="center">A student who loves building things — from firmware to 3D-printed parts.</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaspace+krypton&size=25&pause=1000&color=A0A0A0&center=true&vCenter=true&random=true&width=435&lines=%3E+Start+compiling;%3E+ERROR+404;%3E+Fixing+the+code;%3E+Running+build+hooks;%3E+Uploading+through+ssh;%3E+Robots+are+spinning)](https://git.io/typing-svg)
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Z00Li.Z00Li&"  />
+</div>
+
+<h2 data-importer="text" align="left">🔧 What I Do</h2>
+
+- 🐧 **Linux & Shell** — I live in the terminal and enjoy scripting and automating my workflow
+- 🔌 **Embedded Systems** — Programming Arduino, ESP32, and STM32 microcontrollers
+- 🛠️ **CAD Design** — Designing custom parts and components in Autodesk Fusion 360
+- 🤖 **Robotics** — Competing in the World Robot Olympiad (WRO), senior category, building robots with LEGO Spike Prime and Pybricks/MicroPython
 
 
-## 👀 Interests
-- **Coding**: I enjoy writing clean, efficient code in Python and C++. Coding is not just a skill for me; it's a language through which I express my ideas and bring them to life.
-- **Digital Technology**: From hardware to software, I love exploring the latest in tech. Whether it's the newest gadget or a groundbreaking software update, I'm always eager to dive in and learn more.
-- **Operating Systems**: Linux and other operating systems fascinate me. I love diving into their intricacies, understanding how they work, and experimenting with different distributions and configurations.
+<h2 data-importer="text" align="left">🌱 Currently Exploring</h2>
 
-
-## 🌱 Currently Learning
 - **Python**: Enhancing my skills in this versatile language. Python's simplicity and power make it a joy to work with, and I'm constantly discovering new ways to use it.
 - **C++**: Delving deeper into this powerful language. C++ offers a level of control and efficiency that's unmatched, and I'm excited to push my boundaries with it.
 - **Terminal Usage**: Mastering command-line tools and scripts. The terminal is a powerful tool, and I'm learning to harness its full potential to streamline my workflow and automate tasks.
 - **Computer Operating Systems**: Understanding the core concepts and architecture. From kernel development to system calls, I'm fascinated by the inner workings of operating systems.
 
 
-## 💞️ Collaboration
-I'm looking to collaborate on:
-- **Arduino Projects**: Innovative projects using Arduino. Arduino has become my playground for innovation, where I channel my creativity into crafting unique projects. From experimenting with sensors to pushing the boundaries of microcontrollers, I find joy in the challenges and triumphs that the Arduino platform offers.
-- **C++ Projects**: Any kind of C++ projects that push the boundaries of what's possible. Whether it's developing new algorithms, optimizing existing code, or creating complex systems, I'm eager to collaborate and learn.
+<h2 data-importer="text" align="left">🌐 Socials:</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zoltan-bus)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@z00li_)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Z00Li)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Z00Li) </p>
 
 
-## 📫 How to Reach Me
-- **GitHub**: @Z00Li
-- **Discord**: @z00li
+<h2 data-importer="text" align="left">💻 Tech Stack:</h2>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 
-## 📸 Photography
-While my primary focus is on technology, I also have a budding interest in photography. Armed with a camera, I see the world as a canvas waiting to be painted with light and color. Each photograph I capture tells a unique story, and I revel in the process of translating emotions and moments into visual narratives. The intersection of technology and art is where I thrive, seamlessly blending logical precision with creative expression.
+<h2 data-importer="text" align="left">📊 GitHub Stats:</h2>
+
+![](https://github-readme-stats.shion.dev/api?username=Z00Li&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Z00Li&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-## 🎯 Goals
-- **Mastering Linux**: I aim to become proficient in Linux, exploring its various distributions and understanding its core functionalities.
-- **Contributing to Open Source**: I believe in the power of open source and aim to contribute to projects that align with my interests and skills.
-- **Continuous Learning**: Technology is ever-evolving, and I strive to keep up with the latest trends and advancements. Whether it's a new programming language, a cutting-edge tool, or a revolutionary concept, I'm always ready to learn and grow.
+<h2 data-importer="text" align="left">💰 You can help me by Donating</h2>
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/z00li) 
