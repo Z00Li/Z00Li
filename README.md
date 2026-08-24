@@ -5,7 +5,9 @@
 <h1 data-importer="text" align="center">👋Hey, I am Z00Li</h1>
 <p data-importer="text" align="center">A student who loves building things — from firmware to 3D-printed parts.</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaspace+krypton&size=25&pause=1000&color=A0A0A0&center=true&vCenter=true&random=true&width=435&lines=%3E+Start+compiling;%3E+ERROR+404;%3E+Fixing+the+code;%3E+Running+build+hooks;%3E+Uploading+through+ssh;%3E+Robots+are+spinning)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaspace+krypton&size=25&pause=1000&color=A0A0A0&center=true&vCenter=true&random=true&width=435&lines=%3E+Start+compiling;%3E+ERROR+404;%3E+Fixing+the+code;%3E+Running+build+hooks;%3E+Uploading+through+ssh;%3E+Robots+are+spinning" />
+</p>
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Z00Li.Z00Li&"  />
